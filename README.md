@@ -1,7 +1,7 @@
 # Ground-effect wing in a wake: validated 2D CFD and surrogate models
 
 Code, inputs and results for the preprint *"Downforce loss of a ground-effect wing in a wake is a dynamic-pressure
-effect: validated 2D CFD and a comparison of surrogate models"* (Mehmood, 2026).
+effect: validated 2D CFD and a comparison of surrogate models"* (Mehmood, 2026), preprint doi:[10.5281/zenodo.24552176](https://doi.org/10.5281/zenodo.24552176).
 
 **Main result.** A ground-effect wing in a wake keeps its clean-air lift coefficient based on the dynamic pressure it
 actually meets (median retention / dynamic-pressure ratio 0.995 over 52 wake cases). Ride height (h/c 0.2-0.5) and

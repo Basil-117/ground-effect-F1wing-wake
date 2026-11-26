@@ -8,3 +8,13 @@ authors:
 version: "1.0.0"
 date-released: "2026-11-22"
 license: MIT
+preferred-citation:
+  type: article
+  title: "Downforce loss of a ground-effect wing in a wake is a dynamic-pressure effect: validated 2D CFD and a comparison of surrogate models"
+  authors:
+    - family-names: "Mehmood"
+      given-names: "Basil"
+      orcid: "https://orcid.org/0009-0006-9315-8668"
+  year: 2026
+  doi: "10.5281/zenodo.24552176"
+  notes: "Preprint"
