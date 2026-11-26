@@ -1,0 +1,27 @@
+# OpenFOAM cases and meshes produced by the scripts
+cfd2d/*/
+frontwing2d/*/
+*.msh
+*_geom.txt
+flow_cases/
+# local outputs
+cfd2d/results_*.csv
+cfd2d/campaign_table.csv
+cfd2d/campaign_summary.json
+cfd2d/campaign_figure.png
+cfd2d/model_comparison.*
+validation/results_*.csv
+validation/*.png
+paper/*.aux
+paper/*.log
+paper/*.out
+__pycache__/
+# never commit race data
+f1_data/
+f1cache/
+analytics/
+
+# third-party data under licence: keep local
+geometry/*.csv
+validation/experiment_*.csv
+validation/reference_cfd_*.csv

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Ground-effect wing in a wake: validated 2D CFD and surrogate models"
+authors:
+  - family-names: "Mehmood"
+    given-names: "Basil"
+    orcid: "https://orcid.org/0009-0006-9315-8668"
+version: "1.0.0"
+date-released: "2026-11-22"
+license: MIT
